@@ -3,14 +3,14 @@
     {
       "home": "E4",
       "away": "E1",
-      "gH": null,
-      "gA": null
+      "gH": 1,
+      "gA": 2
     },
     {
       "home": "E6",
       "away": "E7",
-      "gH": null,
-      "gA": null
+      "gH": 3,
+      "gA": 4
     },
     {
       "home": "E5",
