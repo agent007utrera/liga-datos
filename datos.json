@@ -29,26 +29,26 @@
     {
       "home": "E6",
       "away": "E5",
-      "gH": null,
-      "gA": null
+      "gH": 5,
+      "gA": 4
     },
     {
       "home": "E7",
       "away": "E3",
-      "gH": null,
-      "gA": null
+      "gH": 3,
+      "gA": 2
     },
     {
       "home": "E1",
       "away": "E8",
-      "gH": null,
-      "gA": null
+      "gH": 1,
+      "gA": 2
     },
     {
       "home": "E2",
       "away": "E4",
-      "gH": null,
-      "gA": null
+      "gH": 3,
+      "gA": 4
     }
   ],
   [
